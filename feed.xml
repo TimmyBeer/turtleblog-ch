@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>turtleblog.ch</title>
-    <link href="https://blog.turtleblog.ch/feed.xml" rel="self" />
-    <link href="https://blog.turtleblog.ch" />
+    <link href="https://turtleblog.ch/feed.xml" rel="self" />
+    <link href="https://turtleblog.ch" />
     <updated>2021-12-04T15:16:25+01:00</updated>
     <author>
         <name>Timmy</name>
     </author>
-    <id>https://blog.turtleblog.ch</id>
+    <id>https://turtleblog.ch</id>
 
     <entry>
         <title>1st turtleblog post</title>
         <author>
             <name>Timmy</name>
         </author>
-        <link href="https://blog.turtleblog.ch/1st-turtleblog-post.html"/>
-        <id>https://blog.turtleblog.ch/1st-turtleblog-post.html</id>
+        <link href="https://turtleblog.ch/1st-turtleblog-post.html"/>
+        <id>https://turtleblog.ch/1st-turtleblog-post.html</id>
 
         <updated>2021-12-04T15:16:25+01:00</updated>
             <summary>
@@ -33,28 +33,28 @@
   <div  class="gallery-wrapper gallery-wrapper--center">
     <div class="gallery" data-columns="3">
       <figure class="gallery__item">
-      <a href="https://blog.turtleblog.ch/media/posts/1/gallery/chrisemys3.jpg" data-size="4032x3024">
-        <img loading="lazy" src="https://blog.turtleblog.ch/media/posts/1/gallery/chrisemys3-thumbnail.jpg" height="540" width="720" alt="" />
+      <a href="https://turtleblog.ch/media/posts/1/gallery/chrisemys3.jpg" data-size="4032x3024">
+        <img loading="lazy" src="https://turtleblog.ch/media/posts/1/gallery/chrisemys3-thumbnail.jpg" height="540" width="720" alt="" />
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://blog.turtleblog.ch/media/posts/1/gallery/chrisemys2.jpg" data-size="4032x3024">
-        <img loading="lazy" src="https://blog.turtleblog.ch/media/posts/1/gallery/chrisemys2-thumbnail.jpg" height="540" width="720" alt="" />
+      <a href="https://turtleblog.ch/media/posts/1/gallery/chrisemys2.jpg" data-size="4032x3024">
+        <img loading="lazy" src="https://turtleblog.ch/media/posts/1/gallery/chrisemys2-thumbnail.jpg" height="540" width="720" alt="" />
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://blog.turtleblog.ch/media/posts/1/gallery/Sternotherus1.jpg" data-size="4032x3024">
-        <img loading="lazy" src="https://blog.turtleblog.ch/media/posts/1/gallery/Sternotherus1-thumbnail.jpg" height="540" width="720" alt="" />
+      <a href="https://turtleblog.ch/media/posts/1/gallery/Sternotherus1.jpg" data-size="4032x3024">
+        <img loading="lazy" src="https://turtleblog.ch/media/posts/1/gallery/Sternotherus1-thumbnail.jpg" height="540" width="720" alt="" />
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://blog.turtleblog.ch/media/posts/1/gallery/chrisemys1.jpg" data-size="4032x3024">
-        <img loading="lazy" src="https://blog.turtleblog.ch/media/posts/1/gallery/chrisemys1-thumbnail.jpg" height="540" width="720" alt="" />
+      <a href="https://turtleblog.ch/media/posts/1/gallery/chrisemys1.jpg" data-size="4032x3024">
+        <img loading="lazy" src="https://turtleblog.ch/media/posts/1/gallery/chrisemys1-thumbnail.jpg" height="540" width="720" alt="" />
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://blog.turtleblog.ch/media/posts/1/gallery/emys1.jpg" data-size="4032x3024">
-        <img loading="lazy" src="https://blog.turtleblog.ch/media/posts/1/gallery/emys1-thumbnail.jpg" height="540" width="720" alt="" />
+      <a href="https://turtleblog.ch/media/posts/1/gallery/emys1.jpg" data-size="4032x3024">
+        <img loading="lazy" src="https://turtleblog.ch/media/posts/1/gallery/emys1-thumbnail.jpg" height="540" width="720" alt="" />
       </a>
       
     </figure>

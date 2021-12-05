@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://blog.turtleblog.ch/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://turtleblog.ch/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://blog.turtleblog.ch/</loc>
+<loc>https://turtleblog.ch/</loc>
 </url>
 <url>
-<loc>https://blog.turtleblog.ch/1st-turtleblog-post.html</loc>
+<loc>https://turtleblog.ch/1st-turtleblog-post.html</loc>
 <lastmod>2021-12-04T15:16:25+01:00</lastmod>
 </url>
 </urlset>
