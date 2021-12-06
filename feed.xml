@@ -3,7 +3,7 @@
     <title>turtleblog.ch</title>
     <link href="https://turtleblog.ch/feed.xml" rel="self" />
     <link href="https://turtleblog.ch" />
-    <updated>2021-12-04T15:16:25+01:00</updated>
+    <updated>2021-12-06T09:27:34+01:00</updated>
     <author>
         <name>Timmy</name>
     </author>
@@ -17,10 +17,10 @@
         <link href="https://turtleblog.ch/1st-turtleblog-post.html"/>
         <id>https://turtleblog.ch/1st-turtleblog-post.html</id>
 
-        <updated>2021-12-04T15:16:25+01:00</updated>
+        <updated>2021-12-06T09:27:34+01:00</updated>
             <summary>
                 <![CDATA[
-                     Turtleblog is live! stay tune for news on cute cute babyturtles... 
+                     Turtleblog is live! stay tune for news on cute cute babyturtles... YAY.... 
                 ]]>
             </summary>
         <content type="html">
@@ -28,6 +28,10 @@
                 
   <p>
     Turtleblog is live!<br>stay tune for news on cute cute babyturtles...
+  </p>
+
+  <p>
+    YAY....
   </p>
 
   <div  class="gallery-wrapper gallery-wrapper--center">
